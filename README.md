@@ -18,10 +18,6 @@ Página de Links para usar na Bio do Instagram.
 
 <br>
 
-<p align="center">
-  <img alt="Logo da Inforsys" src="./downloads/logo-inforsys/Inforsys01.png" width="30%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
